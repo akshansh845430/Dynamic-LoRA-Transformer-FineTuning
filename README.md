@@ -44,4 +44,4 @@ for transformer-based NLP models using BERT on the IMDB sentiment classification
 
 ## Author
 
-Akshansh Kumar
+Akshansh Kumar Tiwari 
